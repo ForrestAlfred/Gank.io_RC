@@ -26,6 +26,7 @@
 		1135724E1C19227B004A4640 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		113572511C19227B004A4640 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		113572531C19227B004A4640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1135725B1C1924E6004A4640 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				1135724E1C19227B004A4640 /* Assets.xcassets */,
 				113572501C19227B004A4640 /* LaunchScreen.storyboard */,
 				113572531C19227B004A4640 /* Info.plist */,
+				1135725B1C1924E6004A4640 /* README.md */,
 				113572421C19227B004A4640 /* Supporting Files */,
 			);
 			path = gankioRC;

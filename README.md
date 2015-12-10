@@ -1,4 +1,4 @@
-GankDaily
+# GankDaily RC
 GankDaily APP for Gank.io personally
 
 GankApp is designed for ios developers who are interested in Gank.io.
@@ -11,14 +11,18 @@ later, I would sy-data to leanCloud that we can request information from leanClo
 
 Thanks for Gank.io and all of the users !
 
-main tech
+##main tech
 
 LeanCloud for store data
+ReactiveCocoa
 
-features
+##features
 
-fetch data every day
-display everyday's data
-favorate
-login
-read news inner app
+1. fetch data every day
+2. display everyday's data
+3. favorate
+4. login
+5. read news inner app
+
+
+
