@@ -14,6 +14,7 @@ Thanks for Gank.io and all of the users !
 ##main tech
 
 LeanCloud for store data
+
 ReactiveCocoa
 
 ##features
